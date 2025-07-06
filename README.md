@@ -75,4 +75,4 @@ Se muestra el valor convertido, y el usuario puede elegir si quiere Salir o hace
 ![Resultado final](capture4.png)
 
 ## 🎬 Demostración rápida
-![Cómo funciona el conversor](demo.gif)
+![Cómo funciona el conversor](demoConversor.gif)

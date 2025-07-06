@@ -46,5 +46,33 @@ ExchangeRate API 🌐
 
 Biblioteca Gson (gson-2.10.1.jar) 📦
 
+## 📸 Demostración visual paso a paso
+
+### 🟢 1. Inicio del programa
+El usuario ve la bienvenida y la lista de monedas disponibles.
+
+![Inicio del programa](capture1.png)
+
+---
+
+### 💱 2. Ingreso de datos
+El usuario escribe la moneda de origen, destino y la cantidad que quiere convertir.
+
+![Ingreso de datos](capture2.png)
+
+---
+
+### 🔎 3. Consulta en línea
+El programa se conecta a internet y obtiene la tasa actual de cambio.
+
+![Consulta en línea](capture3.png)
+
+---
+
+### ✅ 4. Resultado final
+Se muestra el valor convertido, y el usuario puede elegir si quiere Salir o hacer Otra Conversión.
+
+![Resultado final](capture4.png)
+
 ## 🎬 Demostración rápida
 ![Cómo funciona el conversor](demo.gif)
